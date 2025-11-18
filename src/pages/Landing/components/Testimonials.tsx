@@ -1,10 +1,8 @@
 import React from "react";
 import { Star } from "lucide-react";
-
-// Assuming these are generic customer images now, or you can rename them:
-import customerOne from "../assets/customer.png";
-import customerTwo from "../assets/customer2.png";
-import customerThree from "../assets/customer3.png";
+import customerOne from "../Assets/customer.png";
+import customerTwo from "../Assets/customer2.png";
+import customerThree from "../Assets/customer3.png";
 
 interface TestimonialCardProps {
   quote: string;
