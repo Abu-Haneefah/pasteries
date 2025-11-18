@@ -1,8 +1,6 @@
 import React from "react";
 import { Utensils } from "lucide-react";
-
-// Assuming this path is correct for the image
-import ownerImage from "../assets/baker.png";
+import ownerImage from "../Assets/baker.png";
 
 interface StatProps {
   value: string;
