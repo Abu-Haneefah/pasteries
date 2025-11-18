@@ -9,10 +9,10 @@ import {
   Clock,
 } from "lucide-react";
 
-import breadImage from "../assets/artisan-bread.png";
-import pastryImage from "../assets/pasteries.png";
-import cakeImage from "../assets/custom-cakes.png";
-import coffeeImage from "../assets/cofee_treats.png";
+import breadImage from "../Assets/artisan-bread.png";
+import pastryImage from "../Assets/pasteries.png";
+import cakeImage from "../Assets/custom-cakes.png";
+import coffeeImage from "../Assets/cofee_treats.png";
 
 // Define the structure for a single specialty card
 interface SpecialtyCardProps {
